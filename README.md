@@ -1,5 +1,3 @@
-# CIS-350-HW2-Ricketson
-
 #Kassidy Ricketson
 
 ## Interests
