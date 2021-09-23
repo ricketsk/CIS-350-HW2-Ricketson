@@ -1,4 +1,4 @@
-# Kassidy Ricketson
+# Kassidy Ricketson [me](049A5634-3.jpg)
 
 ## Interests
 
