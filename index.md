@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Kassidy Ricketson
 
-You can use the [editor on GitHub](https://github.com/ricketsk/CIS-350-HW2-Ricketson/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Interests
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Towards the beginning of 2021, I got into crypto mining and have expanded my knowledge and hardware since then.
+* I have an almost 2 year old German Shepherd named Luna. I like to spned time with her whehter it be teaching her new tricks or playing with her.
+* I have been pretty into video games since my early childhood. Some of my all time favorites are The Legend of Zelda Ocarina of Time and the Dark Souls Series. I am currently playing Destiny 2 religously.
 
-### Markdown
+## Technical Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I began my Computer Science journey with Java. I am have been using mostly C since I learned it this summer. I also have experience in Python, Linux, HTML, CSS, and some bash.
 
-```markdown
-Syntax highlighted code block
+## Memes
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ricketsk/CIS-350-HW2-Ricketson/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I don't usually see too many memes, but the last ones that got my attention were the Dom Toretto family memes. Here's one of my [favorites](https://piximus.net/fun/dominic-toretto-and-the-power-of-family-memes) 
