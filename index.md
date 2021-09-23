@@ -4,8 +4,8 @@ image of [me](049A5634-3.jpg)
 
 ## Interests
 
-* Towards the beginning of 2021, I got into crypto mining and have expanded my knowledge and hardware since then. [Here](mining.jpg) is a picture of my current setup
-* I have an almost 2 year old German Shepherd named Luna. I like to spned time with her whehter it be teaching her new tricks or playing with her. [Here](luna.jpg) is a picture of her
+* Towards the beginning of 2021, I got into crypto mining and have expanded my knowledge and hardware since then. [Here](mining2.jpg) is a picture of my current setup
+* I have an almost 2 year old German Shepherd named Luna. I like to spned time with her whehter it be teaching her new tricks or playing with her. [Here](luna2.jpg) is a picture of her
 * I have been pretty into video games since my early childhood. Some of my all time favorites are The Legend of Zelda Ocarina of Time and the Dark Souls Series. I am currently playing Destiny 2 religously.
 
 ## Technical Background
